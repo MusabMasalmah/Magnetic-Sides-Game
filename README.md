@@ -1,0 +1,1 @@
+- This is my AI course project in birzeit university.
