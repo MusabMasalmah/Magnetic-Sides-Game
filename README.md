@@ -14,6 +14,7 @@ Magnetic Sides Game is a project developed as part of an AI course. The game inv
 ![image](https://github.com/MusabMasalmah/Magnetic-Sides-Game/assets/129512609/a2d995f9-f333-45d4-801a-d9b2800cf339)
 <details>
   <summary>Click to more images</summary>
+  
   ![image](https://github.com/MusabMasalmah/Magnetic-Sides-Game/assets/129512609/f0d40a35-6b7b-4d0c-8da1-5c7efa9e32bf)
   ![image](https://github.com/MusabMasalmah/Magnetic-Sides-Game/assets/129512609/cc4aeeb9-9d8a-4fa1-87e9-12642ff2b6c5)
   ![image](https://github.com/MusabMasalmah/Magnetic-Sides-Game/assets/129512609/fe679e64-b236-473b-8036-6a8480ba06aa)
